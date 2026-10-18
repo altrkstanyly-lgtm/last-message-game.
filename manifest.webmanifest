@@ -1,0 +1,13 @@
+{
+  "name": "آخر رسالة | Last Message",
+  "short_name": "آخر رسالة",
+  "description": "حكاية تفاعلية عربية عن الذاكرة والاستماع والاختيار.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#10171d",
+  "theme_color": "#10171d",
+  "icons": [{"src":"assets/icons/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
